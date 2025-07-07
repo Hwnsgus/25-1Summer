@@ -1,0 +1,19 @@
+# 빌드 결과물 제외
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog/
+*.idb
+
+# Visual Studio 파일 제외
+.vs/
+*.user
+*.suo
+*.VC.db*
+*.opendb
+ipch/
